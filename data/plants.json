@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "cabai-merah",
+    "name": "Cabai Merah",
+    "latinName": "Capsicum annuum",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 40,
+    "difficulty": 2,
+    "timeToHarvestDays": 75,
+    "imageUrl": "https://images.unsplash.com/photo-1583119022894-919a68a3d0e3?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1583119022894-919a68a3d0e3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1526346698789-22fd84314424?w=800&h=600&fit=crop"
+    ],
+    "description": "Cabai merah adalah tanaman yang sangat populer di Indonesia dan cocok ditanam di balkon atau teras. Buahnya bisa dipakai untuk masak sehari-hari.",
+    "plantingSteps": [
+      "Rendam benih cabai dalam air hangat selama 2-3 jam",
+      "Semai benih di media tanam lembab, tutup tipis dengan tanah",
+      "Taruh di tempat hangat, siram tiap hari hingga berkecambah (7-14 hari)",
+      "Setelah 3-4 daun tumbuh, pindahkan ke pot berukuran 25cm",
+      "Pastikan pot memiliki drainase baik"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari atau saat tanah mulai kering. Hindari genangan air.",
+      "fertilizing": "Beri pupuk NPK setiap 2 minggu sekali. Tambahkan pupuk kalium saat berbunga.",
+      "pruning": "Pangkas tunas air (tunas yang tumbuh di ketiak daun) agar energi fokus ke buah.",
+      "harvesting": "Panen saat cabai sudah berwarna merah penuh, kurang lebih 75-90 hari setelah tanam."
+    },
+    "companionPlants": ["tomat", "basil", "kemangi"],
+    "commonProblems": [
+      { "problem": "Daun menguning", "solution": "Kurangi frekuensi siram, periksa drainase pot" },
+      { "problem": "Buah busuk", "solution": "Perbaiki sirkulasi udara, kurangi kelembaban" },
+      { "problem": "Hama kutu daun", "solution": "Semprot dengan campuran air sabun atau insektisida organik" }
+    ],
+    "videoTutorials": ["dQw4w9WgXcQ"],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "tomat-ceri",
+    "name": "Tomat Ceri",
+    "latinName": "Solanum lycopersicum var. cerasiforme",
+    "category": "buah",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 45,
+    "difficulty": 2,
+    "timeToHarvestDays": 60,
+    "imageUrl": "https://images.unsplash.com/photo-1592841200221-a6898f307baa?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1592841200221-a6898f307baa?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1561136594-7f68813d8f93?w=800&h=600&fit=crop"
+    ],
+    "description": "Tomat ceri sangat cocok untuk ditanam di pot atau wadah. Buahnya kecil-kecil manis dan produktif, bisa panen berulang kali.",
+    "plantingSteps": [
+      "Semai benih di tray semai dengan media yang lembab",
+      "Siram setiap hari, letakkan di tempat terkena sinar matahari",
+      "Setelah 4 minggu atau tinggi 15cm, pindahkan ke pot besar (min 30cm)",
+      "Pasang ajir/tongkat penopang",
+      "Mulai berbunga sekitar 6-8 minggu setelah tanam"
+    ],
+    "careInstructions": {
+      "watering": "Siram secara konsisten setiap 2 hari. Jaga tanah tetap lembab tapi tidak becek.",
+      "fertilizing": "Pupuk cair setiap 10 hari. Tingkatkan kalium dan fosfor saat berbuah.",
+      "pruning": "Pangkas tunas samping (sucker) untuk tomat indeterminate agar buah lebih besar.",
+      "harvesting": "Panen saat tomat berwarna merah cerah dan sedikit lunak ketika ditekan."
+    },
+    "companionPlants": ["cabai-merah", "basil", "kemangi"],
+    "commonProblems": [
+      { "problem": "Buah retak", "solution": "Jaga konsistensi penyiraman, hindari kekeringan tiba-tiba" },
+      { "problem": "Penyakit layu", "solution": "Ganti media tanam, pastikan drainase baik" },
+      { "problem": "Daun keriting", "solution": "Periksa serangan virus atau kekurangan air" }
+    ],
+    "videoTutorials": ["dQw4w9WgXcQ"],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "selada-hijau",
+    "name": "Selada Hijau",
+    "latinName": "Lactuca sativa",
+    "category": "sayur",
+    "lightRequirement": "partial",
+    "waterFrequency": 1,
+    "spacingCm": 20,
+    "difficulty": 1,
+    "timeToHarvestDays": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=800&h=600&fit=crop"
+    ],
+    "description": "Selada adalah tanaman paling mudah untuk pemula. Tumbuh cepat, bisa dipanen dalam 35 hari, dan cocok untuk ditanam di dalam ruangan dengan cahaya cukup.",
+    "plantingSteps": [
+      "Tabur benih langsung di pot atau raised bed",
+      "Tutup tipis dengan tanah halus",
+      "Siram perlahan setiap hari",
+      "Penjarangan: sisakan 1 tanaman per 20cm",
+      "Bisa panen daun luar sejak minggu ke-4"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari di pagi hari. Selada menyukai tanah lembab.",
+      "fertilizing": "Pupuk nitrogen cair setiap 2 minggu untuk daun lebih subur.",
+      "harvesting": "Petik daun luar dari bawah, biarkan pusat tanaman terus tumbuh. Atau cabut seluruh tanaman."
+    },
+    "companionPlants": ["kangkung", "bayam", "mint"],
+    "commonProblems": [
+      { "problem": "Daun pahit", "solution": "Kurangi paparan sinar langsung, perbanyak air" },
+      { "problem": "Berbunga prematur (bolting)", "solution": "Panen lebih awal, hindari panas berlebih" },
+      { "problem": "Siput/bekicot", "solution": "Tabur abu kayu di sekitar tanaman" }
+    ],
+    "season": "Sepanjang tahun (lebih baik di musim hujan)",
+    "popular": true
+  },
+  {
+    "id": "kangkung",
+    "name": "Kangkung",
+    "latinName": "Ipomoea aquatica",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 1,
+    "spacingCm": 15,
+    "difficulty": 1,
+    "timeToHarvestDays": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?w=800&h=600&fit=crop"
+    ],
+    "description": "Kangkung adalah sayuran paling cepat tumbuh dan mudah dirawat. Sangat cocok untuk pemula yang ingin hasil cepat.",
+    "plantingSteps": [
+      "Rendam benih 6-12 jam sebelum tanam",
+      "Tanam benih langsung di pot atau polybag",
+      "Siram setiap hari, pastikan media selalu lembab",
+      "Mulai bisa dipanen di hari ke-21"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari bahkan dua kali sehari di musim panas. Kangkung suka air banyak.",
+      "fertilizing": "Pupuk urea tipis setelah panen pertama untuk merangsang tunas baru.",
+      "harvesting": "Potong 10-15cm dari ujung batang. Tanaman akan tumbuh lagi dalam 1 minggu."
+    },
+    "companionPlants": ["selada-hijau", "bayam"],
+    "commonProblems": [
+      { "problem": "Batang lembek", "solution": "Kurangi genangan air, perbaiki drainase" },
+      { "problem": "Ulat daun", "solution": "Semprot pestisida organik dari daun pepaya" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "bayam-merah",
+    "name": "Bayam Merah",
+    "latinName": "Amaranthus tricolor",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 1,
+    "spacingCm": 15,
+    "difficulty": 1,
+    "timeToHarvestDays": 28,
+    "imageUrl": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=800&h=600&fit=crop"
+    ],
+    "description": "Bayam merah sangat bergizi dan indah dipandang. Daunnya berwarna merah keunguan dan tumbuh cepat, cocok untuk pemula.",
+    "plantingSteps": [
+      "Tabur benih langsung di media tanam",
+      "Siram setiap hari dengan siraman halus",
+      "Penjarangan saat tinggi 5cm",
+      "Panen mulai hari ke-28"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari pagi hari. Jaga tanah tetap lembab.",
+      "fertilizing": "Pupuk organik cair setiap 2 minggu.",
+      "harvesting": "Cabut seluruh tanaman atau petik daun dari bawah secara bertahap."
+    },
+    "companionPlants": ["kangkung", "selada-hijau", "pakcoy"],
+    "commonProblems": [
+      { "problem": "Warna memucat", "solution": "Tambah pupuk nitrogen, pastikan cukup sinar matahari" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  },
+  {
+    "id": "basil",
+    "name": "Basil / Kemangi Italia",
+    "latinName": "Ocimum basilicum",
+    "category": "herbal",
+    "lightRequirement": "full",
+    "waterFrequency": 1,
+    "spacingCm": 25,
+    "difficulty": 2,
+    "timeToHarvestDays": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1618375569909-3c8616cf7733?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&h=600&fit=crop"
+    ],
+    "description": "Basil harum dan mudah tumbuh di pot. Sangat berguna untuk memasak dan bisa mengusir nyamuk secara alami.",
+    "plantingSteps": [
+      "Semai benih di media yang lembab",
+      "Letakkan di tempat yang mendapat sinar matahari langsung",
+      "Pindahkan ke pot saat 4-5 daun sudah tumbuh",
+      "Bisa dipanen daun sejak hari ke-30"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari. Hindari air di atas daun untuk mencegah penyakit.",
+      "fertilizing": "Pupuk organik setiap 3 minggu.",
+      "pruning": "Petik bunga yang muncul agar tanaman tidak cepat mati dan daun tetap aromatik.",
+      "harvesting": "Petik daun dari ujung. Jangan ambil lebih dari 1/3 tanaman sekaligus."
+    },
+    "companionPlants": ["tomat-ceri", "cabai-merah", "kemangi"],
+    "commonProblems": [
+      { "problem": "Daun hitam", "solution": "Jangan siram terlalu banyak, perbaiki drainase" },
+      { "problem": "Tanaman cepat berbunga", "solution": "Petik bunga secara rutin untuk memperpanjang umur tanaman" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "latinName": "Mentha spicata",
+    "category": "herbal",
+    "lightRequirement": "partial",
+    "waterFrequency": 1,
+    "spacingCm": 20,
+    "difficulty": 1,
+    "timeToHarvestDays": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1628556270448-4d4e4148e1b1?w=800&h=600&fit=crop"
+    ],
+    "description": "Mint sangat mudah tumbuh dan bahkan bisa invasif. Tanam di pot tersendiri. Berguna untuk minuman, masakan, dan mengusir hama.",
+    "plantingSteps": [
+      "Potong batang mint 10cm dan rendam dalam air hingga berakar",
+      "Pindahkan ke pot berisi tanah",
+      "Siram setiap hari",
+      "Siap dipanen dalam 1 bulan"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari. Mint menyukai tanah lembab.",
+      "fertilizing": "Jarang perlu pupuk. Cukup kompos saat menanam.",
+      "pruning": "Pangkas secara teratur untuk menjaga bentuk dan mendorong pertumbuhan.",
+      "harvesting": "Petik daun atau ujung batang kapan saja. Makin sering dipetik, makin lebat."
+    },
+    "companionPlants": ["selada-hijau", "kangkung", "cabai-merah"],
+    "commonProblems": [
+      { "problem": "Akar membusuk", "solution": "Ganti tanah, kurangi frekuensi siram" },
+      { "problem": "Daun bercak", "solution": "Semprot fungisida organik" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary",
+    "latinName": "Salvia rosmarinus",
+    "category": "herbal",
+    "lightRequirement": "full",
+    "waterFrequency": 3,
+    "spacingCm": 30,
+    "difficulty": 2,
+    "timeToHarvestDays": 90,
+    "imageUrl": "https://images.unsplash.com/photo-1608501078713-8e445a709b39?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1608501078713-8e445a709b39?w=800&h=600&fit=crop"
+    ],
+    "description": "Rosemary adalah tanaman herbal mediterania yang tahan kering dan sangat aromatik. Cocok untuk balkon yang terkena sinar penuh.",
+    "plantingSteps": [
+      "Tanam stek atau bibit di pot berdrainase baik",
+      "Gunakan campuran tanah dan pasir (1:1)",
+      "Letakkan di area paling banyak sinar matahari",
+      "Hindari penyiraman berlebih"
+    ],
+    "careInstructions": {
+      "watering": "Siram hanya saat tanah kering. Tahan kekeringan lebih baik daripada kelebihan air.",
+      "fertilizing": "Pupuk seimbang setiap 6 minggu di musim tumbuh.",
+      "pruning": "Pangkas setelah berbunga untuk menjaga bentuk.",
+      "harvesting": "Potong ujung batang sepanjang 10-15cm. Gunakan fresh atau keringkan."
+    },
+    "companionPlants": ["cabai-merah", "basil"],
+    "commonProblems": [
+      { "problem": "Akar busuk", "solution": "Kurangi siram drastis, ganti ke tanah berpasir" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  },
+  {
+    "id": "daun-bawang",
+    "name": "Daun Bawang",
+    "latinName": "Allium fistulosum",
+    "category": "sayur",
+    "lightRequirement": "partial",
+    "waterFrequency": 2,
+    "spacingCm": 10,
+    "difficulty": 1,
+    "timeToHarvestDays": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1590165482129-1b8b27698780?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1590165482129-1b8b27698780?w=800&h=600&fit=crop"
+    ],
+    "description": "Daun bawang sangat mudah ditanam, bahkan dari sisa bawang yang dibeli di pasar! Tumbuh cepat dan bisa dipanen berkali-kali.",
+    "plantingSteps": [
+      "Potong pangkal daun bawang, sisakan 3-4cm beserta akarnya",
+      "Rendam pangkal dalam air selama 1 minggu hingga tumbuh tunas",
+      "Pindahkan ke pot berisi tanah subur",
+      "Siram setiap 2 hari"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari. Jaga tanah tetap lembab.",
+      "fertilizing": "Pupuk nitrogen ringan setiap 2 minggu.",
+      "harvesting": "Potong dari atas, sisakan 5cm di bawah. Akan tumbuh lagi dalam 2-3 minggu."
+    },
+    "companionPlants": ["kangkung", "pakcoy", "selada-hijau"],
+    "commonProblems": [
+      { "problem": "Daun layu", "solution": "Pastikan cukup air dan tidak terlalu banyak sinar langsung" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "sereh",
+    "name": "Serai / Sereh",
+    "latinName": "Cymbopogon citratus",
+    "category": "herbal",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 30,
+    "difficulty": 1,
+    "timeToHarvestDays": 90,
+    "imageUrl": "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?w=800&h=600&fit=crop"
+    ],
+    "description": "Serai tumbuh subur di pot besar dengan sinar cukup. Sangat bermanfaat untuk masakan dan dapat mengusir nyamuk.",
+    "plantingSteps": [
+      "Potong batang sereh dari pangkal, sisakan akar",
+      "Rendam dalam air selama seminggu",
+      "Tanam di pot besar (min 30cm) berisi tanah subur",
+      "Siram setiap hari"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari. Tahan kekeringan singkat.",
+      "fertilizing": "Pupuk organik setiap bulan.",
+      "harvesting": "Ambil batang terluar yang sudah cukup tebal. Potong dari pangkal."
+    },
+    "companionPlants": ["jahe", "kunyit"],
+    "commonProblems": [
+      { "problem": "Daun kekuningan", "solution": "Tambah pupuk nitrogen" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  },
+  {
+    "id": "jahe",
+    "name": "Jahe",
+    "latinName": "Zingiber officinale",
+    "category": "herbal",
+    "lightRequirement": "partial",
+    "waterFrequency": 2,
+    "spacingCm": 25,
+    "difficulty": 2,
+    "timeToHarvestDays": 180,
+    "imageUrl": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=800&h=600&fit=crop"
+    ],
+    "description": "Jahe bisa ditanam di dalam pot dan sangat berguna untuk kesehatan. Butuh waktu 6 bulan tapi cukup mudah dirawat.",
+    "plantingSteps": [
+      "Pilih rimpang jahe yang segar dan bertunas",
+      "Rendam semalaman dalam air hangat",
+      "Tanam di pot dalam dengan tanah gembur, tunas menghadap atas",
+      "Letakkan di tempat teduh-sebagian"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2-3 hari. Jangan biarkan tanah terlalu kering.",
+      "fertilizing": "Pupuk kompos setiap bulan.",
+      "harvesting": "Gali rimpang setelah daun mulai menguning (6-9 bulan). Ambil bagian luar, sisakan untuk tumbuh lagi."
+    },
+    "companionPlants": ["kunyit", "sereh"],
+    "commonProblems": [
+      { "problem": "Rimpang busuk", "solution": "Kurangi kelembaban, perbaiki drainase" }
+    ],
+    "season": "Musim hujan (Okt–Mar)",
+    "popular": false
+  },
+  {
+    "id": "kunyit",
+    "name": "Kunyit",
+    "latinName": "Curcuma longa",
+    "category": "herbal",
+    "lightRequirement": "partial",
+    "waterFrequency": 2,
+    "spacingCm": 25,
+    "difficulty": 2,
+    "timeToHarvestDays": 270,
+    "imageUrl": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=800&h=600&fit=crop"
+    ],
+    "description": "Kunyit adalah tanaman obat yang berharga. Daunnya cantik dan rimpangnya kaya manfaat kesehatan.",
+    "plantingSteps": [
+      "Siapkan rimpang kunyit dengan tunas",
+      "Tanam di pot dalam (min 30cm) dengan tanah subur",
+      "Letakkan di tempat teduh parsial",
+      "Mulai tumbuh dalam 2-3 minggu"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari.",
+      "fertilizing": "Kompos organik setiap 6 minggu.",
+      "harvesting": "Panen rimpang setelah 9-12 bulan saat daun mengering."
+    },
+    "companionPlants": ["jahe", "sereh"],
+    "commonProblems": [
+      { "problem": "Daun bercak coklat", "solution": "Kurangi kelembaban, semprot fungisida" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  },
+  {
+    "id": "stroberi",
+    "name": "Stroberi",
+    "latinName": "Fragaria × ananassa",
+    "category": "buah",
+    "lightRequirement": "full",
+    "waterFrequency": 1,
+    "spacingCm": 25,
+    "difficulty": 3,
+    "timeToHarvestDays": 90,
+    "imageUrl": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1543528176-61b239494933?w=800&h=600&fit=crop"
+    ],
+    "description": "Stroberi cantik di balkon dan bisa berbuah sepanjang tahun jika dirawat dengan baik. Pilih varietas yang cocok untuk dataran rendah.",
+    "plantingSteps": [
+      "Beli bibit atau stolon (tunas samping) dari induk",
+      "Tanam di pot atau hanging basket dengan campuran tanah dan kompos",
+      "Letakkan di tempat paling cerah",
+      "Buang bunga pertama untuk memperkuat tanaman"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari pagi hari, hindari air di buah.",
+      "fertilizing": "Pupuk kaya kalium dan fosfor setiap 2 minggu saat berbunga.",
+      "harvesting": "Panen saat buah merah merata dan mudah lepas dari tangkai."
+    },
+    "companionPlants": ["basil", "mint"],
+    "commonProblems": [
+      { "problem": "Buah hitam/busuk", "solution": "Hindari genangan, lapisi bawah buah dengan jerami" },
+      { "problem": "Hama tungau", "solution": "Semprot air sabun, tingkatkan sirkulasi udara" }
+    ],
+    "season": "Musim kemarau",
+    "popular": true
+  },
+  {
+    "id": "kemangi",
+    "name": "Kemangi",
+    "latinName": "Ocimum americanum",
+    "category": "herbal",
+    "lightRequirement": "full",
+    "waterFrequency": 1,
+    "spacingCm": 20,
+    "difficulty": 1,
+    "timeToHarvestDays": 25,
+    "imageUrl": "https://images.unsplash.com/photo-1630614397610-a25e40f1f0de?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1630614397610-a25e40f1f0de?w=800&h=600&fit=crop"
+    ],
+    "description": "Kemangi adalah basil khas Indonesia dengan aroma yang khas. Sangat mudah tumbuh dan sering dipakai sebagai lalapan.",
+    "plantingSteps": [
+      "Semai benih atau tanam stek batang",
+      "Letakkan di tempat cerah",
+      "Siram setiap hari",
+      "Panen dalam 25 hari"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari pagi. Jaga tanah lembab.",
+      "fertilizing": "Pupuk organik cair setiap 2 minggu.",
+      "harvesting": "Petik daun atau batang ujung. Buang bunga untuk memperpanjang umur."
+    },
+    "companionPlants": ["cabai-merah", "tomat-ceri", "basil"],
+    "commonProblems": [
+      { "problem": "Daun berlubang", "solution": "Periksa hama belalang atau ulat, ambil manual" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "pakcoy",
+    "name": "Pakcoy",
+    "latinName": "Brassica rapa subsp. chinensis",
+    "category": "sayur",
+    "lightRequirement": "partial",
+    "waterFrequency": 1,
+    "spacingCm": 15,
+    "difficulty": 1,
+    "timeToHarvestDays": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=800&h=600&fit=crop"
+    ],
+    "description": "Pakcoy atau bok choy sangat mudah ditanam dan cepat panen. Daunnya tebal dan renyah, cocok untuk tumisan.",
+    "plantingSteps": [
+      "Semai benih langsung di pot",
+      "Siram setiap hari",
+      "Penjarangan saat tinggi 5cm",
+      "Panen sekitar 30 hari"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari pagi.",
+      "fertilizing": "Pupuk NPK ringan setiap 2 minggu.",
+      "harvesting": "Cabut seluruh tanaman atau potong batang 2cm dari tanah untuk tumbuh lagi."
+    },
+    "companionPlants": ["daun-bawang", "bayam-merah"],
+    "commonProblems": [
+      { "problem": "Ulat kubis", "solution": "Semprot Bt (Bacillus thuringiensis) organik" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "sawi-hijau",
+    "name": "Sawi Hijau",
+    "latinName": "Brassica juncea",
+    "category": "sayur",
+    "lightRequirement": "partial",
+    "waterFrequency": 1,
+    "spacingCm": 20,
+    "difficulty": 1,
+    "timeToHarvestDays": 35,
+    "imageUrl": "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=800&h=600&fit=crop"
+    ],
+    "description": "Sawi hijau mudah ditanam di pot dengan kondisi cahaya sedang. Daunnya lebar dan bisa dipakai untuk berbagai masakan.",
+    "plantingSteps": [
+      "Tabur benih, tutup tipis dengan tanah",
+      "Siram setiap hari",
+      "Penjarangan setelah 2 minggu",
+      "Panen hari ke-35"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari pagi.",
+      "fertilizing": "Pupuk NPK setiap 10 hari.",
+      "harvesting": "Cabut seluruh tanaman atau petik daun luar."
+    },
+    "companionPlants": ["pakcoy", "selada-hijau"],
+    "commonProblems": [
+      { "problem": "Ulat", "solution": "Semprot pestisida organik" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  },
+  {
+    "id": "terong-ungu",
+    "name": "Terong Ungu",
+    "latinName": "Solanum melongena",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 50,
+    "difficulty": 2,
+    "timeToHarvestDays": 70,
+    "imageUrl": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=800&h=600&fit=crop"
+    ],
+    "description": "Terong ungu menghasilkan buah yang indah dan lezat. Cocok ditanam di pot besar (25-30 liter) di balkon atau teras.",
+    "plantingSteps": [
+      "Semai benih di tray",
+      "Setelah 4 minggu, pindahkan ke pot besar",
+      "Beri ajir untuk menopang",
+      "Mulai berbuah 70-80 hari"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari. Konsisten penting saat berbuah.",
+      "fertilizing": "Pupuk NPK setiap 2 minggu, tambah kalium saat berbuah.",
+      "pruning": "Pangkas cabang yang tidak produktif.",
+      "harvesting": "Panen saat buah ukuran sedang, kulit masih mengkilap."
+    },
+    "companionPlants": ["cabai-merah", "basil"],
+    "commonProblems": [
+      { "problem": "Buah kerdil", "solution": "Tingkatkan pupuk fosfor dan kalium" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "mentimun",
+    "name": "Mentimun",
+    "latinName": "Cucumis sativus",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 1,
+    "spacingCm": 40,
+    "difficulty": 2,
+    "timeToHarvestDays": 50,
+    "imageUrl": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?w=800&h=600&fit=crop"
+    ],
+    "description": "Mentimun bisa ditanam secara vertikal di balkon dengan ajir atau trellis. Cepat panen dan produktif.",
+    "plantingSteps": [
+      "Tanam benih langsung di pot besar",
+      "Pasang trellis atau ajir",
+      "Siram setiap hari",
+      "Panen mulai hari ke-50"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari, pastikan tanah selalu lembab.",
+      "fertilizing": "Pupuk NPK setiap 2 minggu.",
+      "harvesting": "Panen sebelum terlalu tua agar tidak pahit."
+    },
+    "companionPlants": ["basil", "daun-bawang"],
+    "commonProblems": [
+      { "problem": "Buah pahit", "solution": "Siram lebih konsisten, hindari stress air" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "pare",
+    "name": "Pare / Paria",
+    "latinName": "Momordica charantia",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 40,
+    "difficulty": 2,
+    "timeToHarvestDays": 55,
+    "imageUrl": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=800&h=600&fit=crop"
+    ],
+    "description": "Pare bisa tumbuh merambat di pagar atau teralis balkon. Buahnya bermanfaat untuk kesehatan meski rasanya pahit.",
+    "plantingSteps": [
+      "Rendam benih 24 jam",
+      "Tanam di pot besar dengan trellis",
+      "Siram setiap 2 hari",
+      "Panen mulai hari ke-55"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari.",
+      "fertilizing": "Pupuk NPK bulanan.",
+      "harvesting": "Panen saat buah masih hijau dan kencang."
+    },
+    "companionPlants": ["mentimun", "kangkung"],
+    "commonProblems": [
+      { "problem": "Buah sedikit", "solution": "Bantu penyerbukan manual dengan kuas kecil" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "jeruk-nipis-mini",
+    "name": "Jeruk Nipis Mini (Calamansi)",
+    "latinName": "Citrus × microcarpa",
+    "category": "buah",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 40,
+    "difficulty": 3,
+    "timeToHarvestDays": 180,
+    "imageUrl": "https://images.unsplash.com/photo-1571688374-yoke?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=800&h=600&fit=crop"
+    ],
+    "description": "Calamansi atau jeruk kasturi bisa tumbuh di pot dan menghasilkan buah asam segar. Pohonnya dekoratif untuk balkon.",
+    "plantingSteps": [
+      "Beli bibit dari nursery",
+      "Tanam di pot (min 40cm) dengan campuran tanah, pasir, dan kompos",
+      "Letakkan di tempat paling terang",
+      "Berbuah setelah 6-12 bulan"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari, biarkan tanah sedikit kering antar siram.",
+      "fertilizing": "Pupuk khusus tanaman buah setiap bulan.",
+      "pruning": "Pangkas cabang yang mati atau tumbuh tidak teratur.",
+      "harvesting": "Panen saat buah menguning sedikit."
+    },
+    "companionPlants": ["basil", "mint"],
+    "commonProblems": [
+      { "problem": "Daun kuning", "solution": "Cek pH tanah, tambah besi chelate jika defisiensi" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "kentang-mini",
+    "name": "Kentang Mini",
+    "latinName": "Solanum tuberosum",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 30,
+    "difficulty": 3,
+    "timeToHarvestDays": 90,
+    "imageUrl": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=800&h=600&fit=crop"
+    ],
+    "description": "Kentang bisa ditanam di karung atau pot dalam. Hasilnya tidak sebanyak di ladang tapi tetap memuaskan untuk urban farming.",
+    "plantingSteps": [
+      "Siapkan bibit kentang yang sudah bertunas",
+      "Tanam di pot/karung dalam dengan tanah kaya humus",
+      "Timbun tanah saat batang tumbuh tinggi",
+      "Panen 90 hari setelah tanam"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari.",
+      "fertilizing": "Pupuk kalium tinggi setelah 4 minggu.",
+      "harvesting": "Gali hati-hati saat daun mulai menguning."
+    },
+    "companionPlants": ["daun-bawang", "kemangi"],
+    "commonProblems": [
+      { "problem": "Umbi kecil", "solution": "Pastikan cukup kalium, timbun tanah lebih tinggi" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "jagung-mini",
+    "name": "Jagung Mini",
+    "latinName": "Zea mays var. rugosa",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 30,
+    "difficulty": 2,
+    "timeToHarvestDays": 65,
+    "imageUrl": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=800&h=600&fit=crop"
+    ],
+    "description": "Jagung mini bisa ditanam di pot berukuran sedang dan menjadi tanaman unik di balkon atau teras.",
+    "plantingSteps": [
+      "Tanam 2-3 benih per pot (30cm diameter)",
+      "Siram setiap hari",
+      "Beri ajir saat sudah tinggi",
+      "Panen 65-70 hari"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari, lebih sering saat panas.",
+      "fertilizing": "Pupuk NPK setiap 2 minggu.",
+      "harvesting": "Panen saat rambut jagung sudah coklat dan buah terasa padat."
+    },
+    "companionPlants": ["kacang-panjang", "mentimun"],
+    "commonProblems": [
+      { "problem": "Tongkol kosong", "solution": "Bantu penyerbukan manual, tanam berkelompok" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "kacang-panjang",
+    "name": "Kacang Panjang",
+    "latinName": "Vigna unguiculata subsp. sesquipedalis",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 20,
+    "difficulty": 1,
+    "timeToHarvestDays": 55,
+    "imageUrl": "https://images.unsplash.com/photo-1567375698348-5d9d5ae99de0?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1567375698348-5d9d5ae99de0?w=800&h=600&fit=crop"
+    ],
+    "description": "Kacang panjang sangat produktif dan bisa merambat di trellis balkon. Satu tanaman bisa panen berkali-kali.",
+    "plantingSteps": [
+      "Tanam benih langsung 2-3 biji per lubang",
+      "Pasang trellis",
+      "Siram setiap hari",
+      "Panen mulai hari ke-55"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari.",
+      "fertilizing": "Pupuk fosfor saat berbunga.",
+      "harvesting": "Panen saat polong masih muda, jangan terlalu tua."
+    },
+    "companionPlants": ["jagung-mini", "cabai-merah"],
+    "commonProblems": [
+      { "problem": "Polong pendek", "solution": "Panen lebih sering untuk mendorong produksi" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "latinName": "Lavandula angustifolia",
+    "category": "hias",
+    "lightRequirement": "full",
+    "waterFrequency": 4,
+    "spacingCm": 30,
+    "difficulty": 3,
+    "timeToHarvestDays": 120,
+    "imageUrl": "https://images.unsplash.com/photo-1499578124509-1611b77778b8?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1499578124509-1611b77778b8?w=800&h=600&fit=crop"
+    ],
+    "description": "Lavender sangat indah dan harum. Cocok untuk balkon yang terkena sinar matahari penuh dan membutuhkan sedikit air.",
+    "plantingSteps": [
+      "Beli bibit dari nursery atau setek batang",
+      "Gunakan tanah berpasir dan berdrainase baik",
+      "Letakkan di tempat paling cerah",
+      "Jangan terlalu sering disiram"
+    ],
+    "careInstructions": {
+      "watering": "Siram hanya saat tanah benar-benar kering.",
+      "fertilizing": "Pupuk sedikit di awal musim tumbuh.",
+      "pruning": "Pangkas setelah berbunga untuk menjaga bentuk kompak.",
+      "harvesting": "Potong bunga saat setengah mekar untuk dijadikan potpourri."
+    },
+    "companionPlants": ["rosemary", "basil"],
+    "commonProblems": [
+      { "problem": "Akar busuk", "solution": "Pindahkan ke tanah lebih berpasir, kurangi siram drastis" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "lidah-buaya",
+    "name": "Lidah Buaya",
+    "latinName": "Aloe vera",
+    "category": "hias",
+    "lightRequirement": "partial",
+    "waterFrequency": 7,
+    "spacingCm": 30,
+    "difficulty": 1,
+    "timeToHarvestDays": 365,
+    "imageUrl": "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?w=800&h=600&fit=crop"
+    ],
+    "description": "Lidah buaya hampir tidak bisa mati dan sangat berguna untuk perawatan kulit dan rambut. Tanaman yang wajib ada!",
+    "plantingSteps": [
+      "Ambil anakan dari tanaman induk",
+      "Biarkan luka bekas potongan mengering 1-2 hari",
+      "Tanam di pot kecil dengan tanah berpasir",
+      "Jangan siram selama 1 minggu setelah tanam"
+    ],
+    "careInstructions": {
+      "watering": "Siram sangat jarang, hanya saat tanah benar-benar kering (sekali seminggu atau lebih jarang).",
+      "fertilizing": "Hampir tidak perlu pupuk. Kompos tipis sekali setahun cukup.",
+      "harvesting": "Potong daun terluar saat dibutuhkan. Ambil gel dari bagian dalam."
+    },
+    "companionPlants": ["lavender", "rosemary"],
+    "commonProblems": [
+      { "problem": "Daun berlendir/busuk", "solution": "Stop siram, ganti tanah, biarkan mengering" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "kaktus-mini",
+    "name": "Kaktus Mini",
+    "latinName": "Cactaceae spp.",
+    "category": "hias",
+    "lightRequirement": "full",
+    "waterFrequency": 14,
+    "spacingCm": 15,
+    "difficulty": 1,
+    "timeToHarvestDays": 365,
+    "imageUrl": "https://images.unsplash.com/photo-1509587584298-0f3b3a3a1797?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1509587584298-0f3b3a3a1797?w=800&h=600&fit=crop"
+    ],
+    "description": "Kaktus mini sangat tahan panas dan kering, sangat cocok untuk balkon yang panas dan sibuk. Tersedia dalam berbagai bentuk unik.",
+    "plantingSteps": [
+      "Gunakan tanah kaktus khusus atau campuran tanah + pasir kasar (1:1)",
+      "Tanam dengan sarung tangan",
+      "Letakkan di tempat paling terang",
+      "Hampir tidak perlu perawatan"
+    ],
+    "careInstructions": {
+      "watering": "Siram sangat jarang, setiap 2 minggu di musim kemarau.",
+      "fertilizing": "Pupuk kaktus khusus sekali setahun.",
+      "harvesting": "Tanaman dekoratif, tidak dipanen."
+    },
+    "companionPlants": ["lidah-buaya", "lavender"],
+    "commonProblems": [
+      { "problem": "Batang lunak/busuk", "solution": "Stop siram, ubah ke tanah lebih kering" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  },
+  {
+    "id": "sukulen",
+    "name": "Sukulen Mix",
+    "latinName": "Succulent spp.",
+    "category": "hias",
+    "lightRequirement": "partial",
+    "waterFrequency": 7,
+    "spacingCm": 15,
+    "difficulty": 1,
+    "timeToHarvestDays": 365,
+    "imageUrl": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&h=600&fit=crop"
+    ],
+    "description": "Sukulen tersedia dalam ratusan bentuk dan warna. Perawatannya mudah dan sangat cocok untuk dekorasi balkon atau indoor.",
+    "plantingSteps": [
+      "Gunakan pot kecil berdrainase baik",
+      "Tanah sukulen atau campuran pasir dan kompos",
+      "Tidak perlu banyak perawatan"
+    ],
+    "careInstructions": {
+      "watering": "Siram sekali seminggu di musim panas, sekali 2 minggu di musim dingin.",
+      "fertilizing": "Pupuk sukulen encer sekali sebulan di musim tumbuh.",
+      "harvesting": "Tanaman dekoratif."
+    },
+    "companionPlants": ["kaktus-mini", "lidah-buaya"],
+    "commonProblems": [
+      { "problem": "Daun berkerut", "solution": "Tambah frekuensi siram sedikit" },
+      { "problem": "Leggy/tidak kompak", "solution": "Pindahkan ke tempat lebih terang" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": true
+  },
+  {
+    "id": "seledri",
+    "name": "Seledri",
+    "latinName": "Apium graveolens",
+    "category": "herbal",
+    "lightRequirement": "partial",
+    "waterFrequency": 1,
+    "spacingCm": 20,
+    "difficulty": 2,
+    "timeToHarvestDays": 90,
+    "imageUrl": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1589927986089-35812388d1f4?w=800&h=600&fit=crop"
+    ],
+    "description": "Seledri adalah bumbu dapur penting yang bisa tumbuh di pot kecil. Aromanya kuat dan daunnya sering dipakai untuk berbagai masakan.",
+    "plantingSteps": [
+      "Semai benih di tempat lembab",
+      "Pindahkan setelah 6 minggu ke pot 15cm",
+      "Letakkan di tempat teduh-sebagian",
+      "Panen daun setelah 3 bulan"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari. Seledri menyukai kelembaban tinggi.",
+      "fertilizing": "Pupuk nitrogen cair setiap 2 minggu.",
+      "harvesting": "Petik daun luar dari bawah."
+    },
+    "companionPlants": ["daun-bawang", "bayam-merah"],
+    "commonProblems": [
+      { "problem": "Batang berongga", "solution": "Pastikan cukup boron, siram lebih rutin" }
+    ],
+    "season": "Musim hujan",
+    "popular": false
+  },
+  {
+    "id": "kangkung-air",
+    "name": "Kangkung Air Hidroponik",
+    "latinName": "Ipomoea aquatica",
+    "category": "sayur",
+    "lightRequirement": "partial",
+    "waterFrequency": 1,
+    "spacingCm": 10,
+    "difficulty": 2,
+    "timeToHarvestDays": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?w=800&h=600&fit=crop"
+    ],
+    "description": "Kangkung air dapat ditanam secara hidroponik di wadah berisi air. Sangat cocok untuk indoor farming.",
+    "plantingSteps": [
+      "Siapkan wadah berisi air",
+      "Masukkan batang kangkung yang dipotong",
+      "Ganti air setiap 3 hari",
+      "Panen dalam 3 minggu"
+    ],
+    "careInstructions": {
+      "watering": "Ganti air setiap 2-3 hari, tambah nutrisi hidroponik.",
+      "fertilizing": "Larutan nutrisi hidroponik AB mix.",
+      "harvesting": "Potong dari ujung, sisakan pangkal untuk tumbuh lagi."
+    },
+    "companionPlants": ["selada-hijau", "bayam-merah"],
+    "commonProblems": [
+      { "problem": "Air berbau", "solution": "Ganti air lebih sering, bersihkan wadah" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  },
+  {
+    "id": "timun-jepang",
+    "name": "Timun Jepang / Japanese Cucumber",
+    "latinName": "Cucumis sativus var. japonicus",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 1,
+    "spacingCm": 35,
+    "difficulty": 2,
+    "timeToHarvestDays": 45,
+    "imageUrl": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1604977042946-1eecc30f269e?w=800&h=600&fit=crop"
+    ],
+    "description": "Timun Jepang lebih kecil dan tumbuh lebih cepat dari timun biasa. Sangat produktif dan cocok untuk pot di balkon.",
+    "plantingSteps": [
+      "Tanam benih langsung",
+      "Pasang trellis vertikal",
+      "Siram setiap hari",
+      "Panen mulai hari ke-45"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap hari pagi.",
+      "fertilizing": "NPK setiap 2 minggu.",
+      "harvesting": "Panen saat ukuran 15-20cm, jangan biarkan terlalu tua."
+    },
+    "companionPlants": ["basil", "daun-bawang"],
+    "commonProblems": [
+      { "problem": "Buah bengkok", "solution": "Tidak perlu khawatir, rasa tetap sama" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "okra",
+    "name": "Okra / Bendi",
+    "latinName": "Abelmoschus esculentus",
+    "category": "sayur",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 40,
+    "difficulty": 2,
+    "timeToHarvestDays": 60,
+    "imageUrl": "https://images.unsplash.com/photo-1566486189376-d5f21e25aae4?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1566486189376-d5f21e25aae4?w=800&h=600&fit=crop"
+    ],
+    "description": "Okra tumbuh tinggi dan membutuhkan sinar matahari penuh. Bunganya cantik dan buahnya enak untuk berbagai masakan Asia.",
+    "plantingSteps": [
+      "Rendam benih semalaman",
+      "Tanam di pot besar (20L+)",
+      "Letakkan di tempat paling cerah",
+      "Berbuah mulai 60 hari"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari.",
+      "fertilizing": "NPK seimbang setiap 2 minggu.",
+      "harvesting": "Panen saat polong 5-8cm, jangan biarkan terlalu keras."
+    },
+    "companionPlants": ["basil", "cabai-merah"],
+    "commonProblems": [
+      { "problem": "Polong keras", "solution": "Panen lebih sering dan lebih muda" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "bunga-matahari-mini",
+    "name": "Bunga Matahari Mini",
+    "latinName": "Helianthus annuus (dwarf)",
+    "category": "hias",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 25,
+    "difficulty": 1,
+    "timeToHarvestDays": 70,
+    "imageUrl": "https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=800&h=600&fit=crop"
+    ],
+    "description": "Bunga matahari mini sangat meriah dan mudah tumbuh di pot. Menarik perhatian dan bisa mengangkat mood.",
+    "plantingSteps": [
+      "Tanam benih langsung di pot 20cm",
+      "Siram setiap 2 hari",
+      "Letakkan di tempat paling cerah",
+      "Berbunga hari ke-70"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari.",
+      "fertilizing": "Pupuk NPK saat tunas bunga mulai muncul.",
+      "harvesting": "Biarkan bunga mengering untuk benih, atau potong untuk dekorasi."
+    },
+    "companionPlants": ["lavender", "basil"],
+    "commonProblems": [
+      { "problem": "Batang lemah", "solution": "Beri ajir penopang" }
+    ],
+    "season": "Musim kemarau",
+    "popular": false
+  },
+  {
+    "id": "kembang-sepatu",
+    "name": "Kembang Sepatu",
+    "latinName": "Hibiscus rosa-sinensis",
+    "category": "hias",
+    "lightRequirement": "full",
+    "waterFrequency": 2,
+    "spacingCm": 40,
+    "difficulty": 2,
+    "timeToHarvestDays": 90,
+    "imageUrl": "https://images.unsplash.com/photo-1593167130060-3ebdaa2dfa1e?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1593167130060-3ebdaa2dfa1e?w=800&h=600&fit=crop"
+    ],
+    "description": "Kembang sepatu adalah tanaman hias ikonik Indonesia yang tumbuh dengan baik di pot. Bunganya besar dan berwarna-warni.",
+    "plantingSteps": [
+      "Beli bibit dari nursery",
+      "Tanam di pot besar (min 30cm)",
+      "Letakkan di tempat cerah",
+      "Berbunga dalam 3 bulan"
+    ],
+    "careInstructions": {
+      "watering": "Siram setiap 2 hari.",
+      "fertilizing": "Pupuk tinggi fosfor setiap 2 minggu saat berbunga.",
+      "pruning": "Pangkas setelah berbunga untuk mendorong tunas baru.",
+      "harvesting": "Tanaman hias, bisa ambil bunga untuk teh herbal."
+    },
+    "companionPlants": ["lavender", "bunga-matahari-mini"],
+    "commonProblems": [
+      { "problem": "Bunga gugur sebelum mekar", "solution": "Kurangi perubahan lingkungan mendadak" }
+    ],
+    "season": "Sepanjang tahun",
+    "popular": false
+  }
+]
